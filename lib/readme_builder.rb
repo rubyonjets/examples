@@ -35,7 +35,7 @@ class ReadmeBuilder
     if submodule?(path)
       # sha = all_submodules[path]
       url = gitmodules_repos[path]
-      "* [#{name}](#{tree_url})"
+      "* [#{name}](#{url})"
     else
       "* [#{name}](#{path})"
     end
