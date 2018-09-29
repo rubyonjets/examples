@@ -1,0 +1,18 @@
+[submodule "crud-api"]
+	path = crud-api
+	url = https://github.com/tongueroo/jets-example-crud-api.git
+[submodule "crud-html"]
+	path = crud-html
+	url = https://github.com/tongueroo/jets-example-crud-html.git
+[submodule "config-rules"]
+	path = config-rules
+	url = https://github.com/tongueroo/jets-example-config-rules.git
+[submodule "examples/crud-api"]
+	path = examples/crud-api
+	url = https://github.com/tongueroo/jets-example-crud-api.git
+[submodule "examples/crud-html"]
+	path = examples/crud-html
+	url = https://github.com/tongueroo/jets-example-crud-html.git
+[submodule "examples/config-rules"]
+	path = examples/config-rules
+	url = https://github.com/tongueroo/jets-example-config-rules.git
