@@ -9,9 +9,9 @@ List of example projects with Jets. Some projects are submodules and some of the
 
 ## Examples
 
-* [Config Rules](examples/config-rules)
-* [Crud Api](examples/crud-api)
-* [Crud Html](examples/crud-html)
+* [Config Rules](https://github.com/tongueroo/jets-example-config-rules/tree/12dfa10acaffe7117790dd6e8bbc7d4bcf97f245)
+* [Crud Api](https://github.com/tongueroo/jets-example-crud-api/tree/3b88932e5dce4b789fba866711e934e0228cd1de)
+* [Crud Html](https://github.com/tongueroo/jets-example-crud-html/tree/5cf0d3d4958bacfc678258fa957e64c4041b7ff9)
 
 ## Adding your project
 
