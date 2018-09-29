@@ -26,3 +26,9 @@ To add your project as a submodule:
 ### Subfolder
 
 Just copy and paste your project into the repo under the `examples` folder.
+
+### Update README
+
+There's a command to update the readme projects list:
+
+    rake readme:update
