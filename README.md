@@ -9,9 +9,9 @@ List of example projects with [Jets](http://rubyonjets.com/). Some projects are 
 
 ## Examples
 
-* [Config Rules](https://github.com/tongueroo/jets-example-config-rules/tree/12dfa10acaffe7117790dd6e8bbc7d4bcf97f245)
-* [Crud Api](https://github.com/tongueroo/jets-example-crud-api/tree/3b88932e5dce4b789fba866711e934e0228cd1de)
-* [Crud Html](https://github.com/tongueroo/jets-example-crud-html/tree/5cf0d3d4958bacfc678258fa957e64c4041b7ff9)
+* [Config Rules](https://github.com/tongueroo/jets-example-config-rules)
+* [Crud Api](https://github.com/tongueroo/jets-example-crud-api)
+* [Crud Html](https://github.com/tongueroo/jets-example-crud-html)
 
 ## Adding your project
 
