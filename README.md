@@ -1,6 +1,6 @@
 # Jets Example Projects
 
-List of example projects with Jets. Some projects are submodules and some of them are plain subfolders. To check out the all projects locally:
+List of example projects with [Jets](http://rubyonjets.com/). Some projects are submodules and some of them are plain subfolders. To check out the all projects locally:
 
     git clone https://github.com/tongueroo/jets-examples.git
     cd jets-examples
