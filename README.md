@@ -25,7 +25,7 @@ To add your project as a submodule:
 
 ### Subfolder
 
-Just copy and paste your project into the repo under the `examples` folder.
+To add your project as a subfolder, just copy and paste your project into the repo under the `examples` folder.
 
 ### Update README
 
