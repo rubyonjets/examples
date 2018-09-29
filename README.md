@@ -9,8 +9,9 @@ List of example projects with Jets. Some projects are submodules and some of the
 
 ## Examples
 
-whatever
-
+* [Config Rules](examples/config-rules)
+* [Crud Api](examples/crud-api)
+* [Crud Html](examples/crud-html)
 
 ## Adding your project
 

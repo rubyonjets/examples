@@ -3,22 +3,24 @@ class Readme
     new.update
   end
 
+  def initialize
+    @readme_path = "./README.md"
+  end
+
   def update
     puts "Update readme project list"
-    pp current_list
-
     start, finish = markers
     new_content = content
     new_content.slice!(start+1..finish-1)
 
-    new_content[start+1, 0] = ["\n", current_list, "\n"]
+    new_content[start+1, 0] = ["", current_list, ""]
     puts new_content
+    IO.write(@readme_path, new_content.join("\n") + "\n")
   end
 
   def current_list
     list = []
     Dir.glob("examples/*").each do |path|
-      puts "path #{path}"
       name = path.sub('examples/','').gsub(/[-_]/,' ').split(' ').map(&:capitalize).join(' ')
       li = "* [#{name}](#{path})"
       list << li
@@ -28,7 +30,7 @@ class Readme
 
   def content
     return @lines if @lines
-    content = IO.read("./README.md")
+    content = IO.read(@readme_path)
     @lines = content.split("\n")
   end
 
