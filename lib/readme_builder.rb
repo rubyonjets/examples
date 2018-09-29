@@ -1,4 +1,4 @@
-class Readme
+class ReadmeBuilder
   def self.update
     new.update
   end

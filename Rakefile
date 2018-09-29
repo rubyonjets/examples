@@ -1,7 +1,7 @@
-require_relative "lib/readme"
+require_relative "lib/readme_builder"
 
 namespace :readme do
   task :update do
-    Readme.update
+    ReadmeBuilder.update
   end
 end
