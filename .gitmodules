@@ -7,3 +7,6 @@
 [submodule "examples/config-rules"]
 	path = examples/config-rules
 	url = https://github.com/tongueroo/jets-example-config-rules.git
+[submodule "examples/simple"]
+	path = examples/simple
+	url = https://github.com/tongueroo/jets-simple.git
