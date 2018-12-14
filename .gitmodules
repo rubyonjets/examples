@@ -9,4 +9,4 @@
 	url = https://github.com/tongueroo/jets-example-config-rules.git
 [submodule "examples/upload-images"]
 	path = examples/upload-images
-	url = https://github.com/tongueroo/jets-example-upload
+	url = https://github.com/tongueroo/jets-example-upload.git
