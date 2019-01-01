@@ -10,3 +10,6 @@
 [submodule "examples/upload-images"]
 	path = examples/upload-images
 	url = https://github.com/tongueroo/jets-example-upload.git
+[submodule "examples/postgresql"]
+	path = examples/postgresql
+	url = https://github.com/tongueroo/jets-example-postgresql
