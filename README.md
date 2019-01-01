@@ -12,7 +12,9 @@ List of example projects with [Jets](http://rubyonjets.com/). Some projects are 
 * [Config Rules](https://github.com/tongueroo/jets-example-config-rules)
 * [Crud Api](https://github.com/tongueroo/jets-example-crud-api)
 * [Crud Html](https://github.com/tongueroo/jets-example-crud-html)
-* [Upload Images](https://github.com/tongueroo/jets-example-upload)
+* [Demo Rails](examples/demo-rails)
+* [Postgresql](examples/postgresql)
+* [Upload Images](examples/upload-images)
 
 ## Adding your project
 
