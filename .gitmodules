@@ -13,3 +13,6 @@
 [submodule "examples/postgresql"]
 	path = examples/postgresql
 	url = https://github.com/tongueroo/jets-example-postgresql
+[submodule "examples/demo-rails"]
+	path = examples/demo-rails
+	url = https://github.com/tongueroo/demo-rails
