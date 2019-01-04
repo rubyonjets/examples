@@ -16,3 +16,9 @@
 [submodule "examples/demo-rails"]
 	path = examples/demo-rails
 	url = https://github.com/tongueroo/demo-rails
+[submodule "examples/demo-crud"]
+	path = examples/demo-crud
+	url = https://github.com/tongueroo/jets-demo-crud.git
+[submodule "examples/mega-demo"]
+	path = examples/mega-demo
+	url = https://github.com/tongueroo/jets-mega-demo
