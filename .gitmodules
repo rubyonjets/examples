@@ -22,3 +22,6 @@
 [submodule "examples/mega-demo"]
 	path = examples/mega-demo
 	url = https://github.com/tongueroo/jets-mega-demo
+[submodule "examples/backup-route53"]
+	path = examples/backup-route53
+	url = https://github.com/tongueroo/jets-backup-route53
