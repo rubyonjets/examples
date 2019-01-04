@@ -37,4 +37,4 @@ To add your project as a subfolder, just copy and paste your project into the re
 
 There's a command to update the readme projects list:
 
-    rake readme:update
+    rake readme
