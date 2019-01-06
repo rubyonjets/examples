@@ -1,6 +1,6 @@
 # Jets Example Projects
 
-List of example projects with [Jets](http://rubyonjets.com/). Some projects are submodules and some of them are plain subfolders. To check out the all projects locally:
+List of example projects with [Jets](http://rubyonjets.com/). Projects are submodules in the [examples](examples) folder. To check out the all projects locally:
 
     git clone https://github.com/tongueroo/jets-examples.git
     cd jets-examples
@@ -30,10 +30,6 @@ Fork the repo and create a pull request.
 To add your project as a submodule:
 
     git submodule add https://github.com/username/my_project.git examples/my_project
-
-### Subfolder
-
-To add your project as a subfolder, just copy and paste your project into the repo under the [examples](examples) folder.
 
 ### Update README
 
