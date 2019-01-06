@@ -15,6 +15,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Some projects are 
 * [Crud Html](https://github.com/tongueroo/jets-example-crud-html)
 * [Demo Crud](https://github.com/tongueroo/jets-demo-crud)
 * [Demo Rails](https://github.com/tongueroo/demo-rails)
+* [Dynamodb](https://github.com/tongueroo/jets-dynamodb-example)
 * [Mega Demo](https://github.com/tongueroo/jets-mega-demo)
 * [Postgresql](https://github.com/tongueroo/jets-example-postgresql)
 * [Upload Images](https://github.com/tongueroo/jets-example-upload)
