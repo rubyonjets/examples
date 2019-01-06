@@ -18,6 +18,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Some projects are 
 * [Dynamodb](https://github.com/tongueroo/jets-dynamodb-example)
 * [Mega Demo](https://github.com/tongueroo/jets-mega-demo)
 * [Postgresql](https://github.com/tongueroo/jets-example-postgresql)
+* [Slack Command](https://github.com/axel/jets-example-slack-command)
 * [Upload Images](https://github.com/tongueroo/jets-example-upload)
 
 ## Adding your project

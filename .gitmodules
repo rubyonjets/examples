@@ -28,3 +28,6 @@
 [submodule "examples/dynamodb"]
 	path = examples/dynamodb
 	url = https://github.com/tongueroo/jets-dynamodb-example
+[submodule "jets-example-slack-command"]
+	path = jets-example-slack-command
+	url = https://github.com/axel/jets-example-slack-command
