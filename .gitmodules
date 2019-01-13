@@ -31,3 +31,6 @@
 [submodule "examples/slack-command"]
 	path = examples/slack-command
 	url = https://github.com/axel/jets-example-slack-command
+[submodule "examples/demo-rails-api"]
+	path = examples/demo-rails-api
+	url = https://github.com/tongueroo/demo-rails-api

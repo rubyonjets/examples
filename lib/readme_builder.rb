@@ -8,18 +8,19 @@ class ReadmeBuilder
   end
 
   def update
-    puts "Update readme project list"
+    puts "Updating readme project list.."
     start, finish = markers
     new_content = content
     new_content.slice!(start+1..finish-1)
 
     new_content[start+1, 0] = ["", current_list, ""]
-    puts new_content
+    # puts new_content # uncomment to debug
     IO.write(@readme_path, new_content.join("\n") + "\n")
+    puts "README.md updated"
   end
 
   def current_list
-    pp gitmodules_repos
+    # pp gitmodules_repos # uncomment to debug
 
     list = []
     Dir.glob("examples/*").each do |path|

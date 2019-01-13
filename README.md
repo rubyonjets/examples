@@ -14,6 +14,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 * [Crud Api](https://github.com/tongueroo/jets-example-crud-api)
 * [Crud Html](https://github.com/tongueroo/jets-example-crud-html)
 * [Demo Crud](https://github.com/tongueroo/jets-demo-crud)
+* [Demo Rails Api](https://github.com/tongueroo/demo-rails-api)
 * [Demo Rails](https://github.com/tongueroo/demo-rails)
 * [Dynamodb](https://github.com/tongueroo/jets-dynamodb-example)
 * [Mega Demo](https://github.com/tongueroo/jets-mega-demo)
