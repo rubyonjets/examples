@@ -34,3 +34,6 @@
 [submodule "examples/demo-rails-api"]
 	path = examples/demo-rails-api
 	url = https://github.com/tongueroo/demo-rails-api
+[submodule "examples/api"]
+	path = examples/api
+	url = https://github.com/tongueroo/jets-example-api
