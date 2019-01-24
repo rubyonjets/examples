@@ -37,3 +37,6 @@
 [submodule "examples/api"]
 	path = examples/api
 	url = https://github.com/tongueroo/jets-example-api
+[submodule "examples/commands"]
+	path = examples/commands
+	url = https://github.com/tongueroo/jets-command-project
