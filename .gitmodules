@@ -40,3 +40,6 @@
 [submodule "examples/commands"]
 	path = examples/commands
 	url = https://github.com/tongueroo/jets-command-project
+[submodule "examples/hello-world"]
+	path = examples/hello-world
+	url = https://github.com/tongueroo/jets-hello-examples

@@ -19,6 +19,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 * [Demo Rails Api](https://github.com/tongueroo/demo-rails-api)
 * [Demo Rails](https://github.com/tongueroo/demo-rails)
 * [Dynamodb](https://github.com/tongueroo/jets-dynamodb-example)
+* [Hello World](https://github.com/tongueroo/jets-hello-examples)
 * [Mega Demo](https://github.com/tongueroo/jets-mega-demo)
 * [Postgresql](https://github.com/tongueroo/jets-example-postgresql)
 * [Slack Command](https://github.com/axel/jets-example-slack-command)
