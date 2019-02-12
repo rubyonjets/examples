@@ -40,3 +40,7 @@ To add your project as a submodule:
 There's a command to update the readme projects list:
 
     rake readme
+
+## Thank You
+
+If you find Jets interesting, please it a GitHub star [tongueroo/jets](https://github.com/tongueroo/jets). It helps others find out about the project.  I'd appreciate it!
