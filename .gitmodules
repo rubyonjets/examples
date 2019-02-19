@@ -52,3 +52,6 @@
 [submodule "examples/events-cloudwatch-rule"]
 	path = examples/events-cloudwatch-rule
 	url = https://github.com/tongueroo/jets-cloudwatch-event-example.git
+[submodule "examples/events-iot-button"]
+	path = examples/events-iot-button
+	url = https://github.com/tongueroo/jets-iot-button-example
