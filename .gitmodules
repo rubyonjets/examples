@@ -43,3 +43,12 @@
 [submodule "examples/hello-world"]
 	path = examples/hello-world
 	url = https://github.com/tongueroo/jets-hello-examples
+[submodule "examples/events-sqs"]
+	path = examples/events-sqs
+	url = https://github.com/tongueroo/jets-sqs-example
+[submodule "examples/events-sns"]
+	path = examples/events-sns
+	url = https://github.com/tongueroo/jets-sns-example
+[submodule "examples/events-cloudwatch-rule"]
+	path = examples/events-cloudwatch-rule
+	url = https://github.com/tongueroo/jets-cloudwatch-event-example.git
