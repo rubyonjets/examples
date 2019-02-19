@@ -20,6 +20,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 * [Demo Rails](https://github.com/tongueroo/demo-rails)
 * [Dynamodb](https://github.com/tongueroo/jets-dynamodb-example)
 * [Events Cloudwatch Rule](https://github.com/tongueroo/jets-cloudwatch-event-example)
+* [Events Iot Button](https://github.com/tongueroo/jets-iot-button-example)
 * [Events Sns](https://github.com/tongueroo/jets-sns-example)
 * [Events Sqs](https://github.com/tongueroo/jets-sqs-example)
 * [Hello World](https://github.com/tongueroo/jets-hello-examples)
