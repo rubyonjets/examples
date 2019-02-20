@@ -55,3 +55,15 @@
 [submodule "examples/events-iot-button"]
 	path = examples/events-iot-button
 	url = https://github.com/tongueroo/jets-iot-button-example
+[submodule "examples/events-cloudwatch-log"]
+	path = examples/events-cloudwatch-log
+	url = https://github.com/tongueroo/jets-cloudwatch-log-event-example
+[submodule "examples/events-dynamodb"]
+	path = examples/events-dynamodb
+	url = https://github.com/tongueroo/jets-dynamodb-event-example
+[submodule "examples/events-kinesis"]
+	path = examples/events-kinesis
+	url = https://github.com/tongueroo/jets-kinesis-example
+[submodule "examples/events-s3"]
+	path = examples/events-s3
+	url = https://github.com/tongueroo/jets-s3-example
