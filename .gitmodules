@@ -67,3 +67,6 @@
 [submodule "examples/events-s3"]
 	path = examples/events-s3
 	url = https://github.com/tongueroo/jets-s3-example
+[submodule "examples/codebuild"]
+	path = examples/codebuild
+	url = https://github.com/tongueroo/jets-codebuild

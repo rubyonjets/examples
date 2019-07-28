@@ -11,6 +11,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 
 * [Api](https://github.com/tongueroo/jets-example-api)
 * [Backup Route53](https://github.com/tongueroo/jets-backup-route53)
+* [Codebuild](https://github.com/tongueroo/jets-codebuild)
 * [Commands](https://github.com/tongueroo/jets-command-project)
 * [Config Rules](https://github.com/tongueroo/jets-example-config-rules)
 * [Crud Api](https://github.com/tongueroo/jets-example-crud-api)
