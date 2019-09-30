@@ -31,6 +31,7 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 * [Hello World](https://github.com/tongueroo/jets-hello-examples)
 * [Mega Demo](https://github.com/tongueroo/jets-mega-demo)
 * [Postgresql](https://github.com/tongueroo/jets-example-postgresql)
+* [Routes Mount](https://github.com/tongueroo/jets-routes-mount)
 * [Slack Command](https://github.com/axel/jets-example-slack-command)
 * [Upload Images](https://github.com/tongueroo/jets-example-upload)
 
