@@ -73,3 +73,9 @@
 [submodule "examples/routes-mount"]
 	path = examples/routes-mount
 	url = https://github.com/tongueroo/jets-routes-mount
+[submodule "examples/sqs-dead-letter"]
+	path = examples/sqs-dead-letter
+	url = https://github.com/tongueroo/jets-sqs-dead-letter
+[submodule "examples/sns-to-sqs"]
+	path = examples/sns-to-sqs
+	url = https://github.com/tongueroo/jets-sns-to-sqs

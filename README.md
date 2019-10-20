@@ -33,6 +33,8 @@ List of example projects with [Jets](http://rubyonjets.com/). Projects are submo
 * [Postgresql](https://github.com/tongueroo/jets-example-postgresql)
 * [Routes Mount](https://github.com/tongueroo/jets-routes-mount)
 * [Slack Command](https://github.com/axel/jets-example-slack-command)
+* [Sns To Sqs](https://github.com/tongueroo/jets-sns-to-sqs)
+* [Sqs Dead Letter](https://github.com/tongueroo/jets-sqs-dead-letter)
 * [Upload Images](https://github.com/tongueroo/jets-example-upload)
 
 ## Adding your project
