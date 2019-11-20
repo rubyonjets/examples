@@ -1,5 +1,7 @@
 # Jets Example Projects
 
+[![BoltOps Badge](https://img.boltops.com/boltops/badges/boltops-badge.png)](https://www.boltops.com)
+
 List of example projects with [Jets](http://rubyonjets.com/). Projects are submodules in the [examples](examples) folder. To check out the all projects locally:
 
     git clone https://github.com/tongueroo/jets-examples.git
